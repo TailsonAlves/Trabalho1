@@ -2,7 +2,7 @@
 Programa desenvolvido na linguagem Java que simula operações que podem ser realizadas em contas-correntes, tais como : consulta de saldo, saque, depósito, reajuste de saldo e transferência.
 
 ## Instalação e Execução
-1. Faça o clone deste projeto com `https://github.com/tailsonVasconcelos/Trabalho1.git `ou baixe-o como zip para sua máquina
+1. Faça o clone deste projeto com `https://github.com/tailsonVasconcelos/Trabalho1.git `ou baixe-o como zip para sua máquina e extraia-o
 2. Usando uma IDE, procure a opção 'Abrir Projeto', no NetBeans basta pressionar Ctrl+Shift+O, e procure pela pasta do projeto.
 3. Na IDE selecione o projeto que foi aberto. No NetBeans fica localizado no lado esquerdo da interface na aba 'Projetos'
 4. Com o projeto selecionado, procure pelo botão de 'Executar Projeto' localizado na Barra de Ferramentas, localizado na parte superior da tela, no NetBeans basta pressionar a tecla F6
