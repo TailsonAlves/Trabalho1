@@ -6,6 +6,7 @@ Programa desenvolvido na linguagem Java que simula operações que podem ser rea
 2. Usando uma IDE, procure a opção 'Abrir Projeto', no NetBeans basta pressionar Ctrl+Shift+O, e procure pela pasta do projeto.
 3. Na IDE selecione o projeto que foi aberto. No NetBeans fica localizado no lado esquerdo da interface na aba 'Projetos'
 4. Com o projeto selecionado, procure pelo botão de 'Executar Projeto' localizado na Barra de Ferramentas, localizado na parte superior da tela, no NetBeans basta pressionar a tecla F6
+5. Em seguida será exibida uma mensagem de boas vindas na tela. Após isso, o programa se mostrará intuitivo para sua manipulação.
 
 
 ### Requisitos
